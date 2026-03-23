@@ -31,4 +31,14 @@ Project Structure:
 ├── plots/
 └── README.md
 
+Author:
+Urooj Murad
+
+Topics:
+gan
+pytorch
+mnist
+deep-learning
+machine-learning
+generative-models
 
