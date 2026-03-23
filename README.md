@@ -26,9 +26,13 @@ Results:
 
 Project Structure:
 ├── gan_baseline.py
+
 ├── gan_improved.py
+
 ├── samples/
+
 ├── plots/
+
 └── README.md
 
 Author:
